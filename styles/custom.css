@@ -1,0 +1,13 @@
+.leadCustom, h2 {
+	text-align: left;
+}
+
+.answerDescriptionHolder {
+    padding: 3%;
+}
+
+#scoreHolder {
+    color: red;
+    font-weight: bold;
+    margin-top: 2%;
+}
